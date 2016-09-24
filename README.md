@@ -51,3 +51,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+## Eslint-config-ember
+TESLint for Ember CLI apps and addons
+https://github.com/ember-cli/ember-cli-eslint
